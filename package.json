@@ -1,0 +1,20 @@
+{
+  "name": "smart-waste-mngt",
+  "version": "1.0.0",
+  "description": "Smart Waste Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicci",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.21",
+    "mqtt": "^4.1.0",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}

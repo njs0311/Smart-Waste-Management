@@ -1,0 +1,160 @@
+{
+  "username": "Supervisor",
+  "password": "CheckBin12",
+  "userkey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Inl0ZXN0IiwicGFzc3dvcmQiOiJ0ZXN0IiwiaWF0IjoxNTkzNzk3OTE0fQ.kd0B_6Cd5jpFfBjJh4AXemnMSj3Dsi9hahg_Ma7itUw",
+  "WetWeight": "0.0",
+  "WetUltrasonic": 0,
+  "DryUltrasonic": 0,
+  "BinTrend": [
+    {
+      "DateAndTime": "2020-07-13T12:44:44.089Z",
+      "WetBinLevel": 71.875,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:44:53.152Z",
+      "WetBinLevel": 71.875,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:45:20.714Z",
+      "WetBinLevel": 62.5,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:45:29.795Z",
+      "WetBinLevel": 62.5,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:46:13.885Z",
+      "WetBinLevel": 62.5,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:46:23.912Z",
+      "WetBinLevel": 62.5,
+      "DryBinLevel": 32.35294117647059
+    },
+    {
+      "DateAndTime": "2020-07-13T12:46:36.491Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 32.35294117647059
+    },
+    {
+      "DateAndTime": "2020-07-13T12:46:47.055Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 32.35294117647059
+    },
+    {
+      "DateAndTime": "2020-07-13T12:46:59.122Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:52:57.219Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T12:53:33.870Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 0
+    },
+    {
+      "DateAndTime": "2020-07-13T12:53:42.929Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:53:55.501Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:54:23.053Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:54:35.697Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:54:47.705Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:55:23.272Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 88.23529411764706
+    },
+    {
+      "DateAndTime": "2020-07-13T12:55:32.336Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 17.647058823529413
+    },
+    {
+      "DateAndTime": "2020-07-13T13:02:16.317Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 85.29411764705883
+    },
+    {
+      "DateAndTime": "2020-07-13T13:02:31.888Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 85.29411764705883
+    },
+    {
+      "DateAndTime": "2020-07-13T13:02:40.990Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 85.29411764705883
+    },
+    {
+      "DateAndTime": "2020-07-13T13:02:57.016Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 85.29411764705883
+    },
+    {
+      "DateAndTime": "2020-07-13T13:03:24.158Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:03:53.247Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:04:03.814Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:04:15.891Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:04:30.414Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:05:20.993Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T13:05:36.564Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": -2.941176470588235
+    },
+    {
+      "DateAndTime": "2020-07-13T16:27:21.247Z",
+      "WetBinLevel": 0,
+      "DryBinLevel": 26.47058823529412
+    }
+  ]
+}

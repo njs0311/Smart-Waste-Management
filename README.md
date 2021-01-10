@@ -1,1 +1,1 @@
-# Smart-Waste-Management
+# Projects
